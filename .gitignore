@@ -1,0 +1,28 @@
+# Streamlit secrets (CRITICAL: Prevents API key leaks)
+.streamlit/secrets.toml
+
+# Python virtual environment & Anaconda files
+.venv/
+venv/
+ENV/
+env/
+anaconda3/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
