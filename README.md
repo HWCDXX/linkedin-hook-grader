@@ -2,8 +2,6 @@
 
 🚀 Live Web Application: Launch Enterprise LinkedIn Hook Grader (https://linkhookai.streamlit.app/)
 
-📂 GitHub Repository: View Source Code
-
 📊 System Status: Active / Operational
 
 # ⚡ Enterprise LinkedIn Hook Grader
