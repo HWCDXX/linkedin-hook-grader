@@ -1,6 +1,6 @@
-🔗 Quick Links
+## 🔗 Quick Links
 
-🚀 Live Web Application: Launch Enterprise LinkedIn Hook Grader (Replace with your live Streamlit Cloud URL)
+🚀 Live Web Application: Launch Enterprise LinkedIn Hook Grader (https://linkhookai.streamlit.app/)
 
 📂 GitHub Repository: View Source Code
 
