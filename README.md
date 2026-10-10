@@ -1,3 +1,11 @@
+🔗 Quick Links
+
+🚀 Live Web Application: Launch Enterprise LinkedIn Hook Grader (Replace with your live Streamlit Cloud URL)
+
+📂 GitHub Repository: View Source Code
+
+📊 System Status: Active / Operational
+
 # ⚡ Enterprise LinkedIn Hook Grader
 
 > An enterprise-grade, deterministic B2B LinkedIn hook analysis and transformation system built with Streamlit, Google Gemini SDK, Supabase, and Webhook Automation.
